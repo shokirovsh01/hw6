@@ -86,4 +86,30 @@ header {
   border-radius: 30px;
   background-color: white;
   margin-top: 30px;
+}
+
+.mainheader6 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 30px;
+}
+.mainheader6 div {
+  background-color: whitesmoke;
+  padding: 30px;
+  border-radius: 50px;
+  text-align: center;
+}
+
+.mainheader7 {
+  display: flex;
+  justify-content: space-evenly;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 50px;
+  align-items: center;
+  background-color: #D4E7FE;
+}
+.mainheader7 .im {
+  width: 50%;
 }/*# sourceMappingURL=style.css.map */
