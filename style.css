@@ -1,13 +1,13 @@
 header {
   font-family: sans-serif;
+  max-width: 1300px;
+  margin: auto;
 }
 
 .mainheader {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  max-width: 1300px;
-  margin: auto;
   padding: 10px;
 }
 .mainheader nav {
@@ -70,4 +70,20 @@ header {
   color: white;
   background-color: blue;
   border: none;
+}
+
+.mainheader5 {
+  background-color: #D4E7FE;
+  padding: 50px;
+  align-items: center;
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+.mainheader5 div {
+  width: 40%;
+  padding: 50px;
+  border-radius: 30px;
+  background-color: white;
+  margin-top: 30px;
 }/*# sourceMappingURL=style.css.map */
