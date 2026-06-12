@@ -1,0 +1,11 @@
+.mm {
+  margin-top: 500px;
+  text-align: center;
+  font-size: 100px;
+  color: green;
+  transition-duration: 5s;
+}
+.mm:hover {
+  color: red;
+  rotate: 1440deg;
+}/*# sourceMappingURL=style.css.map */
