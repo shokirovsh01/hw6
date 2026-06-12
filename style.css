@@ -1,11 +1,12 @@
-.mm {
-  margin-top: 500px;
-  text-align: center;
-  font-size: 100px;
-  color: green;
-  transition-duration: 5s;
+.mainheader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px;
+  margin: auto;
+  padding: 10px;
 }
-.mm:hover {
-  color: red;
-  rotate: 1440deg;
+.mainheader nav {
+  display: flex;
+  gap: 20px;
 }/*# sourceMappingURL=style.css.map */
