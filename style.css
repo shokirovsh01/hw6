@@ -112,4 +112,14 @@ header {
 }
 .mainheader7 .im {
   width: 50%;
+}
+
+.mainheader8 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 50px;
+}
+.mainheader8 img {
+  border-radius: 50px;
 }/*# sourceMappingURL=style.css.map */
