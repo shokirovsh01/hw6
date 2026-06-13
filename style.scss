@@ -4,6 +4,9 @@ header{
 max-width: 1300px;
 margin:auto;
 }
+body{
+    font-family:sans-serif ;
+}
 .mainheader{
 display:flex;
 justify-content: space-between;
@@ -117,4 +120,39 @@ background-color: #D4E7FE;
     img{
         border-radius: 50px;
     }
+}
+.mainheader9{
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+    align-items: center;
+    background: #2B2B39;
+    div{
+        p{
+            color: gray;
+        }
+input{
+    padding: 15px;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+width: 50%;
+border: none;
+}
+button{
+    padding: 15px;
+    border-radius: 15px;
+    border: none;
+    width: 40%;
+    margin-left: -35px;
+background-color: #D4E7FE;
+}
+}
+}
+.mainheader10{
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+    align-items: center;
+    background: #20202D;
+
 }
